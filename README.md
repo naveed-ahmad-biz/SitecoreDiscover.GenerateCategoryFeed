@@ -1,0 +1,1 @@
+# SitecoreDiscover.GenerateCategoryFeed

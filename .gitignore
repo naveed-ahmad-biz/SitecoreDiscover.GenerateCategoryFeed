@@ -1,0 +1,6 @@
+# Don't commit packages
+/packages
+/.vs
+bin
+obj
+*.user
